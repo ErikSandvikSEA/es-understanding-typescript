@@ -15,4 +15,4 @@ combineValues = add
 // combineValues = 'COMBO!'
 // combineValues = printResult
 
-console.log(combineValues(8, 8))
+console.log(combineValues(8, 9))
